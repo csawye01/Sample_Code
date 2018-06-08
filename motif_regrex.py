@@ -5,7 +5,7 @@ import re
 import sys
 import os.path
 
-infile ="len56seq.fasta"
+infile ="seq.fasta"
 #number of matches found in sequence
 matches=()
 #place in sequence where match was found
